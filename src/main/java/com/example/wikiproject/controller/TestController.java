@@ -1,6 +1,6 @@
 package com.example.wikiproject.controller;
 
-import com.example.wikiproject.pojo.Test;
+import com.example.wikiproject.domain.Test;
 import com.example.wikiproject.service.TestService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;

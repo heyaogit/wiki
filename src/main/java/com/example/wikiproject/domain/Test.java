@@ -1,4 +1,4 @@
-package com.example.wikiproject.pojo;
+package com.example.wikiproject.domain;
 
 public class Test {
     private Integer id;

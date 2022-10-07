@@ -1,6 +1,6 @@
 package com.example.wikiproject.mapper;
 
-import com.example.wikiproject.pojo.Test;
+import com.example.wikiproject.domain.Test;
 
 import java.util.List;
 

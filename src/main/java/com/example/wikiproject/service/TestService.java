@@ -2,7 +2,7 @@ package com.example.wikiproject.service;
 
 
 import com.example.wikiproject.mapper.TestMapper;
-import com.example.wikiproject.pojo.Test;
+import com.example.wikiproject.domain.Test;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
