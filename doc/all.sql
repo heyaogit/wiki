@@ -28,3 +28,4 @@ create table `ebook`(
 insert into `ebook`(id,name,description)values (1,'武动乾坤','杀敌，热血兄弟情谊');
 insert into `ebook` (id,name,description)values (2,'三国演义','浪淘尽千古风流人物');
 insert  into `ebook`(id,name,description)values (3,'云间有个小卖部','俩小');
+insert into `ebook`(id,name,description)values (4,'老人与海','海明威')
