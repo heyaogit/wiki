@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <a-layout>
         <a-layout-sider width="200" style="background: #fff">
             <a-menu
                     mode="inline"
@@ -11,7 +11,7 @@
                     <template #title>
                   <span>
                     <user-outlined />
-                    subnav 1111
+                    subnav 1
                   </span>
                     </template>
                     <a-menu-item key="1">option1</a-menu-item>
@@ -50,7 +50,7 @@
         >
             Content
         </a-layout-content>
-    </div>
+    </a-layout>
 
 </template>
 
